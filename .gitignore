@@ -1,4 +1,6 @@
 .idea/
+Videos/
+
 ## https://code.likeagirl.io/how-to-get-rid-of-ds-store-and-node-modules-in-git-repositories-d37b8a391247 #
 #git rm -r --cached .DS_Store#
 # Compiled source #
